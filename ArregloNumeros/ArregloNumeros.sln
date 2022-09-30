@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArregloNumeros", "ArregloNumeros\ArregloNumeros.csproj", "{087888F0-8A1A-4474-9880-061DEE40899A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087888F0-8A1A-4474-9880-061DEE40899A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087888F0-8A1A-4474-9880-061DEE40899A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087888F0-8A1A-4474-9880-061DEE40899A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087888F0-8A1A-4474-9880-061DEE40899A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1C26DD9-D44F-4C3C-BD0C-C86DA8426307}
+	EndGlobalSection
+EndGlobal
